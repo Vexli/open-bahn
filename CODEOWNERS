@@ -1,0 +1,8 @@
+#Webpage Owners
+*.html @vexli
+
+#Database Owners
+/db/line/ @vexli
+/db/org/ @vexli
+/db/route/ @vexli
+/db/station/ @vexli
